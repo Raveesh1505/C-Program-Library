@@ -1,2 +1,19 @@
-# C-Program-Library
- Beginner C programs for practice
+# C Programs
+
+These mini programs usign C languages were made while learning the language. All the programs cover basic concepts of the language. 
+
+## Programs
+
+| | |
+| --- | --- | --- |
+| [Addition of complex numbers](https://github.com/Raveesh1505/C-Program-Library/blob/main/Programs/add_complex_num.c) | [Finding area of different shapes](https://github.com/Raveesh1505/C-Program-Library/blob/main/Programs/area_diff_shapes.c) | [Checking Armstrong number](https://github.com/Raveesh1505/C-Program-Library/blob/main/Programs/armstrong_numbers.c) |
+| [Finding ASCII value of the input](https://github.com/Raveesh1505/C-Program-Library/blob/main/Programs/ascii.c) | [Adding up all the digits of a number](https://github.com/Raveesh1505/C-Program-Library/blob/main/Programs/digit_sum.c) | [Simple Division of 2 numbers](https://github.com/Raveesh1505/C-Program-Library/blob/main/Programs/division.c) |
+| [Finding factorial of a number](https://github.com/Raveesh1505/C-Program-Library/blob/main/Programs/factorial.c) | [Printing the fibonacci series](https://github.com/Raveesh1505/C-Program-Library/blob/main/Programs/fibonacci.c) | [Printing a full pyramid pattern](https://github.com/Raveesh1505/C-Program-Library/blob/main/Programs/full_pyramid.c) | 
+| [Finding the greatest of 3 numbers](https://github.com/Raveesh1505/C-Program-Library/blob/main/Programs/greatest_of_3_num.c) | [Printing a half pyramid pattern](https://github.com/Raveesh1505/C-Program-Library/blob/main/Programs/half_pyramid.c) | [Finding HCF & LCM](https://github.com/Raveesh1505/C-Program-Library/blob/main/Programs/hcf_lcm.c) | 
+| [Hello World](https://github.com/Raveesh1505/C-Program-Library/blob/main/Programs/hello_world.c) | [Checking for leap year](https://github.com/Raveesh1505/C-Program-Library/blob/main/Programs/leap_year.c) | [Multiplication of floating point numbers](https://github.com/Raveesh1505/C-Program-Library/blob/main/Programs/multi_float.c) |
+| [Printing multiplication table](https://github.com/Raveesh1505/C-Program-Library/blob/main/Programs/multiplication_table.c) | [Checking for odd or even number](https://github.com/Raveesh1505/C-Program-Library/blob/main/Programs/odd_eve.c) | [Checking for Palindrom Number](https://github.com/Raveesh1505/C-Program-Library/blob/main/Programs/palindrome.c) |
+| [Simple Percentage Calulator](https://github.com/Raveesh1505/C-Program-Library/blob/main/Programs/percent_calculator.c) | [Checking for perfect square](https://github.com/Raveesh1505/C-Program-Library/blob/main/Programs/perfect_square.c) | [Checking for positive number](https://github.com/Raveesh1505/C-Program-Library/blob/main/Programs/positive.c) |
+| [Checking for prime number](https://github.com/Raveesh1505/C-Program-Library/blob/main/Programs/prime.c) | [Finding roots of a quadratic equation](https://github.com/Raveesh1505/C-Program-Library/blob/main/Programs/quadratic.c) | [Printing random numbers](https://github.com/Raveesh1505/C-Program-Library/blob/main/Programs/random_numbers.c) |
+| [Printing a number in reverse](https://github.com/Raveesh1505/C-Program-Library/blob/main/Programs/reverse_num.c) | [Simple Interest calculator](https://github.com/Raveesh1505/C-Program-Library/blob/main/Programs/simple_interest.c) | [Printing students grade](https://github.com/Raveesh1505/C-Program-Library/blob/main/Programs/student_grade.c) |
+| [Simple addition of 2 numbers](https://github.com/Raveesh1505/C-Program-Library/blob/main/Programs/sum.c) | [Addition of arrays](https://github.com/Raveesh1505/C-Program-Library/blob/main/Programs/summ_array.c) | [Swapping of numbers](https://github.com/Raveesh1505/C-Program-Library/blob/main/Programs/swap_num.c) |
+| [Finding volume of different shapes](https://github.com/Raveesh1505/C-Program-Library/blob/main/Programs/vollume_diff_shapes.c) |
