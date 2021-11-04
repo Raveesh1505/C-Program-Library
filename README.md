@@ -4,7 +4,7 @@ These mini programs usign C languages were made while learning the language. All
 
 ## Programs
 
-| | |
+| | | |
 | --- | --- | --- |
 | [Addition of complex numbers](https://github.com/Raveesh1505/C-Program-Library/blob/main/Programs/add_complex_num.c) | [Finding area of different shapes](https://github.com/Raveesh1505/C-Program-Library/blob/main/Programs/area_diff_shapes.c) | [Checking Armstrong number](https://github.com/Raveesh1505/C-Program-Library/blob/main/Programs/armstrong_numbers.c) |
 | [Finding ASCII value of the input](https://github.com/Raveesh1505/C-Program-Library/blob/main/Programs/ascii.c) | [Adding up all the digits of a number](https://github.com/Raveesh1505/C-Program-Library/blob/main/Programs/digit_sum.c) | [Simple Division of 2 numbers](https://github.com/Raveesh1505/C-Program-Library/blob/main/Programs/division.c) |
